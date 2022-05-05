@@ -32,7 +32,7 @@ public class Problem1049 {
         else if (p1.equals("invertebrado") && p2.equals("anelideo") && p3.equals("hematofago")){
             System.out.println("sanguessuga");
         }
-        else if (p1.equals("invertebrado") && p2.equals("inseto") && p3.equals("onivoro")){
+        else if (p1.equals("invertebrado") && p2.equals("anelideo") && p3.equals("onivoro")){
             System.out.println("minhoca");
         }
 
